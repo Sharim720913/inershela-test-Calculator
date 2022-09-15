@@ -1,0 +1,27 @@
+.box {
+  width: 320px;
+  margin: 100px auto;
+}
+.Ans-box {
+  background: #e2e2e2;
+  padding: 10px;
+  font-size: 35px;
+  width: 295px;
+  height: 45px;
+  text-align: right;
+  bottom: 3px #333;
+}
+.button {
+  background: #333;
+  height: 80px;
+  width: 80px;
+  color: white;
+  font-size: 25px;
+}
+.button-last {
+  width: 160px;
+  height: 60px;
+  background: #333;
+  color: white;
+  font-size: 25px;
+}
